@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="15.837276">
-<testcase classname="Car Rental Testing Feature" name="Verify Manage Bookings" time="8.354626">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="15.570127">
+<testcase classname="Car Rental Testing Feature" name="Verify Manage Bookings" time="7.60212">
 <system-out><![CDATA[Given user is on admin login page...........................................passed
 When Title of the login page is Admin Login.................................passed
 Then user enters username and password......................................passed
@@ -12,7 +12,7 @@ Then user verifies that the heading is Manage Bookings......................pass
 Then user closes the browser................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Car Rental Testing Feature" name="Verify Manage Testimonials" time="7.48265">
+<testcase classname="Car Rental Testing Feature" name="Verify Manage Testimonials" time="7.968007">
 <system-out><![CDATA[Given user is on admin login page...........................................passed
 When Title of the login page is Admin Login.................................passed
 Then user enters username and password......................................passed

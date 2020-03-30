@@ -86,7 +86,7 @@
 				<configuration>
 					<includes>
 						<include>allInOnePackage/Ex1TestRunner</include>
-						<include>ex3Background/Ex3TestRunner</include>
+						<include>myRunner/ex3Background/Ex3TestRunner</include>
 					</includes>
 				</configuration>
 			</plugin>

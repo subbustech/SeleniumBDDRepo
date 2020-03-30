@@ -47,42 +47,42 @@ formatter.match({
   "location": "Ex3CarRentalAdminLogin.user_is_on_admin_login_page()"
 });
 formatter.result({
-  "duration": 6629068100,
+  "duration": 6230876400,
   "status": "passed"
 });
 formatter.match({
   "location": "Ex3CarRentalAdminLogin.title_of_the_login_page_is_Admin_Login()"
 });
 formatter.result({
-  "duration": 9590500,
+  "duration": 8463400,
   "status": "passed"
 });
 formatter.match({
   "location": "Ex3CarRentalAdminLogin.user_enters_username_and_password()"
 });
 formatter.result({
-  "duration": 259300600,
+  "duration": 234239600,
   "status": "passed"
 });
 formatter.match({
   "location": "Ex3CarRentalAdminLogin.user_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 547117100,
+  "duration": 299028800,
   "status": "passed"
 });
 formatter.match({
   "location": "Ex3CarRentalAdminLogin.user_clicks_on_dashboard()"
 });
 formatter.result({
-  "duration": 259547400,
+  "duration": 189315800,
   "status": "passed"
 });
 formatter.match({
   "location": "Ex3CarRentalAdminLogin.heading_on_the_page_is_dashboard()"
 });
 formatter.result({
-  "duration": 54435100,
+  "duration": 45893400,
   "status": "passed"
 });
 formatter.scenario({
@@ -112,21 +112,21 @@ formatter.match({
   "location": "Ex3CarRentalAdminLogin.user_clicks_on_Manage_Bookings()"
 });
 formatter.result({
-  "duration": 444234700,
+  "duration": 407639900,
   "status": "passed"
 });
 formatter.match({
   "location": "Ex3CarRentalAdminLogin.user_verifies_that_the_heading_is_Manage_Bookings()"
 });
 formatter.result({
-  "duration": 71934100,
+  "duration": 47642800,
   "status": "passed"
 });
 formatter.match({
   "location": "Ex3CarRentalAdminLogin.user_closes_the_browser()"
 });
 formatter.result({
-  "duration": 79398500,
+  "duration": 139019600,
   "status": "passed"
 });
 formatter.background({
@@ -170,42 +170,42 @@ formatter.match({
   "location": "Ex3CarRentalAdminLogin.user_is_on_admin_login_page()"
 });
 formatter.result({
-  "duration": 6218200600,
+  "duration": 6408135900,
   "status": "passed"
 });
 formatter.match({
   "location": "Ex3CarRentalAdminLogin.title_of_the_login_page_is_Admin_Login()"
 });
 formatter.result({
-  "duration": 33620000,
+  "duration": 25383500,
   "status": "passed"
 });
 formatter.match({
   "location": "Ex3CarRentalAdminLogin.user_enters_username_and_password()"
 });
 formatter.result({
-  "duration": 196589800,
+  "duration": 210631600,
   "status": "passed"
 });
 formatter.match({
   "location": "Ex3CarRentalAdminLogin.user_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 285372900,
+  "duration": 306456300,
   "status": "passed"
 });
 formatter.match({
   "location": "Ex3CarRentalAdminLogin.user_clicks_on_dashboard()"
 });
 formatter.result({
-  "duration": 197639200,
+  "duration": 232750400,
   "status": "passed"
 });
 formatter.match({
   "location": "Ex3CarRentalAdminLogin.heading_on_the_page_is_dashboard()"
 });
 formatter.result({
-  "duration": 47453300,
+  "duration": 49198000,
   "status": "passed"
 });
 formatter.scenario({
@@ -235,21 +235,21 @@ formatter.match({
   "location": "Ex3CarRentalAdminLogin.user_clicks_on_Manage_Testimonials()"
 });
 formatter.result({
-  "duration": 374414900,
+  "duration": 553803200,
   "status": "passed"
 });
 formatter.match({
   "location": "Ex3CarRentalAdminLogin.user_verifies_that_the_heading_is_Manage_Testimonials()"
 });
 formatter.result({
-  "duration": 60056300,
+  "duration": 54044400,
   "status": "passed"
 });
 formatter.match({
   "location": "Ex3CarRentalAdminLogin.user_closes_the_browser()"
 });
 formatter.result({
-  "duration": 69303000,
+  "duration": 127603900,
   "status": "passed"
 });
 });
