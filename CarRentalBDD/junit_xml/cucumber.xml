@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="15.837276">
+<testcase classname="Car Rental Testing Feature" name="Verify Manage Bookings" time="8.354626">
+<system-out><![CDATA[Given user is on admin login page...........................................passed
+When Title of the login page is Admin Login.................................passed
+Then user enters username and password......................................passed
+Then user clicks on login button............................................passed
+Then user clicks on dashboard...............................................passed
+Then Heading on the page is dashboard.......................................passed
+Then user clicks on Manage Bookings.........................................passed
+Then user verifies that the heading is Manage Bookings......................passed
+Then user closes the browser................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Car Rental Testing Feature" name="Verify Manage Testimonials" time="7.48265">
+<system-out><![CDATA[Given user is on admin login page...........................................passed
+When Title of the login page is Admin Login.................................passed
+Then user enters username and password......................................passed
+Then user clicks on login button............................................passed
+Then user clicks on dashboard...............................................passed
+Then Heading on the page is dashboard.......................................passed
+Then user clicks on Manage Testimonials.....................................passed
+Then user verifies that the heading is Manage Testimonials..................passed
+Then user closes the browser................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
