@@ -19,6 +19,7 @@ WebDriver driver;
 		System.setProperty("webdriver.chrome.driver", "C:\\BrowserDrivers\\chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.get("http://localhost/carrental/admin");
+		System.out.println("Car Rental Admin Login Opened");
 	}
 	
 	@When("^Title of the login page is Admin Login$")
